@@ -1,0 +1,6 @@
+pillow
+numpy
+scipy
+soundfile
+qrcode
+kokoro-onnx

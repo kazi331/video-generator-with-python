@@ -1,0 +1,24 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local Python environments
+.venv/
+venv/
+env/
+ENV/
+
+# Generated video and audio assets
+/build/
+/output/
+
+# Downloaded Kokoro model files
+/models
+
+# Operating system files
+.DS_Store
+Thumbs.db
